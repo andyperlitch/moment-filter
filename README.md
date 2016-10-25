@@ -1,6 +1,6 @@
 # moment-filter
 
-The filter for angular.js based on moment.js(http://momentjs.com).
+The filter for angular.js based on moment.js(http://momentjs.com). Forked from [dotSlashLu/moment-filter](https://github.com/dotSlashLu/moment-filter) and published to npm.
 
 ## Installation
 1. Get the dependencies: 
