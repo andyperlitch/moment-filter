@@ -4,7 +4,7 @@ The filter for angular.js based on moment.js(http://momentjs.com). Forked from [
 
 ## Installation
 1. Get the dependencies: 
-`bower install angular-moment-filter --save`
+`bower install angular-moment-filter --save`, `npm install angular-moment-filter --save`, 
 or just include `index.js` anyhow.
 
 2. Inject moment-filter to your app
